@@ -25,5 +25,5 @@ Equipo: EQ-05
 
 ## Seguimiento
 
-- Trello: Enlace
+- Trello: https://trello.com/invite/b/6ab3e228bbd12e23368b7581/ATTI75d1431c448c370643e1b4cf1586f224F44B989E/fichados
 - Classroom: entrega oficial
