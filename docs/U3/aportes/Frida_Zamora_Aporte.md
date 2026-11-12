@@ -1,9 +1,12 @@
 # Aporte individual — Frida Sofia Zamora Quezada
 
-**Proyecto:** Sistema Inteligente de Gestión Estudiantil y Riesgo Académico
+**Proyecto:** Fichados
+
 **Sección del proceso asignada:** Pasos 3–4 del TO-BE: análisis de patrones y generación de la alerta
+
 **Rol principal de la U3:** Análisis
-**Fecha:** [2026-11-09]
+
+**Fecha:** 2026-11-09
 
 ## 1. Información que necesito obtener
 - Pregunta 1: ¿Con qué criterios decide hoy el tutor que un alumno requiere atención (número de materias reprobadas, inasistencias, otros)?
