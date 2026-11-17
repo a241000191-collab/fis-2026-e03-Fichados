@@ -171,8 +171,28 @@ Nota: consultar la alerta por folio o desde una lista de alertas es una capacida
 ![Recorrido del usuario](prototipo/U3_Prototipo_Fichados_Recorrido.png)
 -->
 
-Archivo del boceto: `docs/U3/prototipo/U3_Prototipo_Fichados_Recorrido.png` 
-**01. Inicio** ![01 Inicio](prototipo/U3_Prototipo_SistemaFichados_01_Inicio.png) **02. Acción** ![02 Accion](prototipo/U3_Prototipo_SistemaFichados_02_Accion.png) **03A. Éxito** ![03A Exito](prototipo/U3_Prototipo_SistemaFichados_03A_Exito.png) **03B. Error** ![03B Error](prototipo/U3_Prototipo_SistemaFichados_03B_Error.png) **04. Consulta** ![04 Consulta](prototipo/U3_Prototipo_SistemaFichados_04_Consulta.png)
+Archivo del boceto: `docs/U3/prototipo/U3_Prototipo_Fichados_Recorrido.png`
+
+**01. Inicio**
+
+![01 Inicio](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_01_Inicio.png)
+
+**02. Acción**
+
+![02 Accion](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_02_Accion.png)
+
+**03A. Éxito**
+
+![03A Exito](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_03A_Exito.png)
+
+**03B. Error**
+
+![03B Error](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_03B_Error.png)
+
+**04. Consulta**
+
+![04 Consulta](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_04_Consulta.png)
+
 El boceto es una representación para discutir los requisitos, no una prueba ejecutada: para confirmar que el sistema realmente guarda, recupera o impide duplicados se necesitaría software.
 
 ## H. Trazabilidad y cambios
