@@ -28,7 +28,7 @@
 |---|---|---|---|
 | Frida Sofía Zamora Quezada | Analisis | RF-03, RF-04 | * https://trello.com/c/4PvgaZ5x/77-act-65-u3-investigaci%C3%B3n-de-2-requisitos-rf-03-y-rf-04 |
 | Jocelyn Fernanda Pérez Muñoz | Desarrollo| RNF-02, RF-05| * https://trello.com/c/K483Qvei   *https://github.com/a241000191-collab/fis-2026-e03-Fichados/pull/1 |
-| Karime Ortiz Reyes | coordinacion| [IDs] | [enlace] |
+| Karime Ortiz Reyes | coordinacion| RF-01, RNF-01 | *https://trello.com/c/HRaWnrSh/79-act-67-u3-busqueda-y-redacci%C3%B3n-de-2-requisitos |
 | Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | https://trello.com/c/DtJNwJuT |
 
 ## B. Fuentes y necesidades
@@ -48,7 +48,6 @@
 
 Para conocer cómo se realiza actualmente el seguimiento de los estudiantes, se tomó como referencia la información obtenida en las entrevistas realizadas al coordinador de división y al jefe de actividades extracurriculares.
 
-<!-- Completar la fecha real y el respaldo de cada entrevista. Si no se pueden documentar, pasarlas al plan B1 y escribir «Sin fuentes confirmadas todavía». -->
 
 | ID | Técnica | Fuente | Fecha de obtención | Hallazgo | Respaldo | Validación |
 |---|---|---|---|---|---|---|
@@ -142,13 +141,13 @@ Los requisitos se enfocarán principalmente en:
 
 | Orden | ID | P | Depende de | Trello |
 |---|---|---|---|---|
-| 1 | RF-01 | P1 | Ninguno | [URL] |
+| 1 | RF-01 | P1 | Ninguno | [Tarjeta de Karime https://trello.com/c/HRaWnrSh/79-act-67-u3-busqueda-y-redacci%C3%B3n-de-2-requisitos  |
 | 2 | RF-02 | P1 | RF-01 | (https://trello.com/c/hXdPXoqM) |
 | 3 | RF-05 | P1 | RF-01 | [Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei)    |
 | 4 | RF-03 | P1 | RF-02 y criterios de riesgo (RG-04) | [URL] |
 | 5 | RF-04 | P1 | RF-03 | [URL] |
 | 6 | RF-06 | P1 | RF-04 | (https://trello.com/c/hXdPXoqM)|
-| 7 | RNF-01 | P1 | Ninguno (aplica a los requisitos que muestran datos) | [URL] |
+| 7 | RNF-01 | P1 | Ninguno (aplica a los requisitos que muestran datos) | [https://trello.com/c/HRaWnrSh/79-act-67-u3-busqueda-y-redacci%C3%B3n-de-2-requisitos] |
 | 8 | RNF-02 | P2 | RF-01 |[Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei) |
 
 ### Recorrido del usuario mediante wireframes de baja fidelidad
