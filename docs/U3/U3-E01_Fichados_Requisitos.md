@@ -242,6 +242,6 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 |---|---|---|---|
 | GitHub | GitHub, Inc. | Repositorio, ramas y Pull Requests | https://github.com |
 | Trello | Atlassian | Tarjetas de trabajo del equipo | https://trello.com |
-| [herramienta del boceto] | [proveedor] | Boceto del recorrido en docs/U3/prototipo/ | [enlace oficial] |
+| Figma | Figma, Inc.| Diseño de wireframes y prototipo navegable del recorrido en docs/U3/prototipo// | https://www.figma.com |
 
 Uso de IA: [explicar para qué se usó y qué se verificó. Completar solo con lo que realmente se hizo].
