@@ -144,8 +144,8 @@ Los requisitos se enfocarán principalmente en:
 | 1 | RF-01 | P1 | Ninguno | [Tarjeta de Karime https://trello.com/c/HRaWnrSh/79-act-67-u3-busqueda-y-redacci%C3%B3n-de-2-requisitos  |
 | 2 | RF-02 | P1 | RF-01 | (https://trello.com/c/hXdPXoqM) |
 | 3 | RF-05 | P1 | RF-01 | [Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei)    |
-| 4 | RF-03 | P1 | RF-02 y criterios de riesgo (RG-04) | [URL] |
-| 5 | RF-04 | P1 | RF-03 | [URL] |
+| 4 | RF-03 | P1 | RF-02 y criterios de riesgo (RG-04) | [https://trello.com/c/4PvgaZ5x/77-act-65-u3-investigaci%C3%B3n-de-2-requisitos-rf-03-y-rf-04] |
+| 5 | RF-04 | P1 | RF-03 | [https://trello.com/c/4PvgaZ5x/77-act-65-u3-investigaci%C3%B3n-de-2-requisitos-rf-03-y-rf-04] |
 | 6 | RF-06 | P1 | RF-04 | (https://trello.com/c/hXdPXoqM)|
 | 7 | RNF-01 | P1 | Ninguno (aplica a los requisitos que muestran datos) | [https://trello.com/c/HRaWnrSh/79-act-67-u3-busqueda-y-redacci%C3%B3n-de-2-requisitos] |
 | 8 | RNF-02 | P2 | RF-01 |[Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei) |
