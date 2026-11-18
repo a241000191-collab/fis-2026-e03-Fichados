@@ -217,9 +217,9 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 | Fecha | Solicitud o motivo | IDs afectados | Decisión | Enlace al PR revisado |
 |---|---|---|---|---|
 | 2026-11-10 | Ruta de organización del alcance | Todos | Se eligió la ruta B, con requisitos directos. |Integrado en rama principal (sin PR previo)|
-| [AAAA-MM-DD] | Dos requisitos de un borrador repetían los de otro integrante (análisis con IA y envío de alertas) | RF-03, RF-04 | Se conservaron los de su autora y se retiraron los repetidos. | [enlace] |
-| [AAAA-MM-DD] | Un borrador incluía un umbral de inasistencias y calificación sin fuente | RG-04, RF-03 | Se retiró el umbral y quedó como regla pendiente en B4. | [enlace] |
-| 2026-11-09 | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | enlace |
+| [AAAA-MM-DD] | Dos requisitos de un borrador repetían los de otro integrante (análisis con IA y envío de alertas) | RF-03, RF-04 | Se conservaron los de su autora y se retiraron los repetidos. |ENLACEEEE |
+| [AAAA-MM-DD] | Un borrador incluía un umbral de inasistencias y calificación sin fuente | RG-04, RF-03 | Se retiró el umbral y quedó como regla pendiente en B4. |Integrado en rama principal (sin PR previo|
+| 2026-11-09 | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | ENLACEEE |
 
 ## I. Referencias y herramientas
 
@@ -227,7 +227,7 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 
 - Entrevista · Coordinador de división · técnica: entrevista · fecha:2026-OCT-24· resumen: ver F-01 en B2 .
 - Entrevista · Jefe de actividades extracurriculares · técnica: entrevista · fecha: 2026-OCT-24 · resumen: ver F-02 en B2 · respaldo: ubicación protegida.
-- Equipo Fichados. (2026, 8 de septiembre). *Propuesta inicial del proyecto, Versión 0* (U1-E02) [Documento de trabajo del equipo]. Repositorio del equipo, docs/U1.
+- Equipo Fichados. (2026, 8 de septiembre). *Propuesta inicial del proyecto, Versión 0* (U1-E02) docs/U1/U1-E02. PROPUESTA_FICHADOS_01.pdf Repositorio del equipo, docs/U1.
 - Equipo Fichados. (2026). *Modelo de negocio* (U2-E01) docs/U2/U2-E01_Fichados_ModeloNegocio.pdf. Repositorio del equipo, docs/U2. Consulta: 28-OCT-2026.
 
 ### Herramientas y recursos
