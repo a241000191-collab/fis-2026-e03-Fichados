@@ -238,4 +238,4 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 | Trello | Atlassian | Tarjetas de trabajo del equipo | https://trello.com |
 | Figma | Figma, Inc.| Diseño de wireframes y prototipo navegable del recorrido en docs/U3/prototipo/ | https://www.figma.com |
 
-Uso de IA: [explicar para qué se usó y qué se verificó. Completar solo con lo que realmente se hizo].
+**Uso de IA:** Utilizamos Gemini para organizar nuestras ideas, mejorar la redacción verificable de los requisitos y estructurar los criterios de aceptación y el enlazado del boceto en Markdown. Verificamos la información comparándola con las entrevistas realizadas al coordinador de división (F-01) y al jefe de actividades extracurriculares (F-02), así como con los documentos previos del equipo (U1-E02 y U2-E01) y las indicaciones proporcionadas por la docente. Finalmente, redactamos, revisamos y adaptamos el contenido de acuerdo con los datos reales del proyecto, retirando cualquier umbral o supuesto no confirmado y dejando explícitas las reglas y dudas que aún falta comprobar.
