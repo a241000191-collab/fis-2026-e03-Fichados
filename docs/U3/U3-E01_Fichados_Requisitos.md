@@ -144,12 +144,12 @@ Los requisitos se enfocarán principalmente en:
 |---|---|---|---|---|
 | 1 | RF-01 | P1 | Ninguno | [URL] |
 | 2 | RF-02 | P1 | RF-01 | [URL] |
-| 3 | RF-05 | P1 | RF-01 | [Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/https://trello.com/c/K483Qvei)    |
+| 3 | RF-05 | P1 | RF-01 | [Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei)    |
 | 4 | RF-03 | P1 | RF-02 y criterios de riesgo (RG-04) | [URL] |
 | 5 | RF-04 | P1 | RF-03 | [URL] |
 | 6 | RF-06 | P1 | RF-04 | [URL] |
 | 7 | RNF-01 | P1 | Ninguno (aplica a los requisitos que muestran datos) | [URL] |
-| 8 | RNF-02 | P2 | RF-01 |[Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/https://trello.com/c/K483Qvei) |
+| 8 | RNF-02 | P2 | RF-01 |[Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei) |
 
 ### Recorrido del usuario mediante wireframes de baja fidelidad
 
