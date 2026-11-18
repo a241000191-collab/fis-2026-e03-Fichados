@@ -3,7 +3,7 @@
 
 **Versión:** 0.2  
 **Fecha:** [2026-11-18]  
-**Equipo y roles:** Frida Sofía Zamora Quezada ([rol principal], revisor: [nombre]) · Jocelyn Fernanda Pérez Muñoz ([rol principal], revisor: [nombre]) · Karime Ortiz Reyes ([rol principal], revisor: [nombre]) · Gilberto Juarez Hernández (Documentación, revisor: [nombre])  
+**Equipo y roles:** Frida Sofía Zamora Quezada (Analisis) · Jocelyn Fernanda Pérez Muñoz (Desarrollo) · Karime Ortiz Reyes (Coordinacion) · Gilberto Juarez Hernández (Documentación)  
 **Estado:** En elaboración
 
 ## A. Identificación y alcance
@@ -26,9 +26,9 @@
 
 | Nombre | Rol U3 | Dos IDs asignados | Enlace Trello / PR |
 |---|---|---|---|
-| Frida Sofía Zamora Quezada | [rol] | RF-03, RF-04 | [enlace] |
-| Jocelyn Fernanda Pérez Muñoz | [rol] | [IDs] | [enlace] |
-| Karime Ortiz Reyes | [rol] | [IDs] | [enlace] |
+| Frida Sofía Zamora Quezada | coordinacion | RF-03, RF-04 | [enlace] |
+| Jocelyn Fernanda Pérez Muñoz | Documentacion | [IDs] | * https://trello.com/c/K483Qvei   * |
+| Karime Ortiz Reyes | Analisis| [IDs] | [enlace] |
 | Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | [enlace] |
 
 ## B. Fuentes y necesidades
