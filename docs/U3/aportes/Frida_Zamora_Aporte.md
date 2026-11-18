@@ -27,8 +27,8 @@ N-01 (provisional): el tutor necesita ubicar a los alumnos con más materias rep
 ## 4. Requisitos 
 | ID | Tipo | Enunciado verificable | Origen | Prioridad y motivo | Autor | Estado |
 |---|---|---|---|---|---|---|
-| RF-xx | RF | El sistema debe generar una alerta asociada a un alumno únicamente cuando sus indicadores cumplan los criterios de riesgo definidos. | Origen pendiente · ver B4 | P1 · Sin esta condición el sistema alertaría sin sustento o dejaría pasar casos. | Frida Zamora | Por validar |
-| RF-xx | RF | El sistema debe mostrar al tutor, junto con cada alerta, los indicadores que la originaron. | Origen pendiente · ver B4 | P1 · Sin ese detalle el tutor no puede evaluar el caso. | Frida Zamora | Por validar |
+| RF-03 | RF | El sistema debe generar una alerta asociada a un alumno únicamente cuando sus indicadores cumplan los criterios de riesgo definidos. | Origen pendiente · ver B4 | P1 · Sin esta condición el sistema alertaría sin sustento o dejaría pasar casos. | Frida Zamora | Por validar |
+| RF- 04 | RF | El sistema debe mostrar al tutor, junto con cada alerta, los indicadores que la originaron. | Origen pendiente · ver B4 | P1 · Sin ese detalle el tutor no puede evaluar el caso. | Frida Zamora | Por validar |
 
 
 
