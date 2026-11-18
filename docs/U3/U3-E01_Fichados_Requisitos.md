@@ -166,26 +166,29 @@ Flechas del recorrido: 01 → 02; 02 → 03A cuando los datos están completos; 
 
 Nota: consultar la alerta por folio o desde una lista de alertas es una capacidad propuesta, pendiente de validar; todavía no tiene un requisito propio.
 
-
 **01. Inicio**
 
 ![01 Inicio](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_01_Inicio.png)
 
-**02. Acción**
+**02. Consulta de expediente**
 
-![02 Accion](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_02_Accion.png)
+![02 Expediente](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_Extra03_Expediente.png)
 
-**03A. Éxito**
+**03. Acción**
 
-![03A Exito](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_03A_Exito.png)
+![03 Accion](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_02_Accion.png)
 
-**03B. Error**
+**04A. Éxito**
 
-![03B Error](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_03B_Error.png)
+![04A Exito](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_03A_Exito.png)
 
-**04. Consulta**
+**04B. Error**
 
-![04 Consulta](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_04_Consulta.png)
+![04B Error](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_03B_Error.png)
+
+**05. Consulta del resultado**
+
+![05 Consulta](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_04_Consulta.png)
 
 
 **Prototipo en Figma:**
