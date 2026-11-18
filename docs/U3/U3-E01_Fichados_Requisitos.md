@@ -27,7 +27,7 @@
 | Nombre | Rol U3 | Dos IDs asignados | Enlace Trello / PR |
 |---|---|---|---|
 | Frida Sofía Zamora Quezada | coordinacion | RF-03, RF-04 | [enlace] |
-| Jocelyn Fernanda Pérez Muñoz | Documentacion | [IDs] | * https://trello.com/c/K483Qvei   * |
+| Jocelyn Fernanda Pérez Muñoz | Documentacion | RNF-02, RF-05| * https://trello.com/c/K483Qvei   * |
 | Karime Ortiz Reyes | Analisis| [IDs] | [enlace] |
 | Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | [enlace] |
 
