@@ -2,7 +2,7 @@
 # U3 · Especificación de requisitos — Fichados
 
 **Versión:** 0.2  
-**Fecha:** [AAAA-MM-DD]  
+**Fecha:** [2026-11-18]  
 **Equipo y roles:** Frida Sofía Zamora Quezada ([rol principal], revisor: [nombre]) · Jocelyn Fernanda Pérez Muñoz ([rol principal], revisor: [nombre]) · Karime Ortiz Reyes ([rol principal], revisor: [nombre]) · Gilberto Juarez Hernández (Documentación, revisor: [nombre])  
 **Estado:** En elaboración
 
@@ -167,11 +167,6 @@ Flechas del recorrido: 01 → 02; 02 → 03A cuando los datos están completos; 
 
 Nota: consultar la alerta por folio o desde una lista de alertas es una capacidad propuesta, pendiente de validar; todavía no tiene un requisito propio.
 
-<!-- Cuando exista la imagen del recorrido en docs/U3/prototipo/, quitar este comentario:
-![Recorrido del usuario](prototipo/U3_Prototipo_Fichados_Recorrido.png)
--->
-
-Archivo del boceto: `docs/U3/prototipo/U3_Prototipo_Fichados_Recorrido.png`
 
 **01. Inicio**
 
@@ -199,7 +194,6 @@ Archivo del boceto: `docs/U3/prototipo/U3_Prototipo_Fichados_Recorrido.png`
 - **Lienzo de diseño (todas las pantallas):** [Ver archivo de diseño en Figma](https://www.figma.com/design/nxNzeiRT5UThILWK4cMtMs/%22Sistema-de-Fichados--y-Seguimiento%22---Iniciar-Sesi%C3%B3n-para-continuar)
 
 > *Nota:* El enlace interactivo y las capturas en `docs/U3/prototipo/` corresponden a un prototipo de baja fidelidad para validar el recorrido de los requisitos con los interesados; no representa software funcional conectado a una base de datos real.
-> *Nota:* Tanto las imágenes como el enlace navegable en Figma corresponden a un prototipo de baja fidelidad para validar el flujo de los requisitos con los interesados; no representa software funcional conectado a una base de datos real.
 
 El boceto es una representación para discutir los requisitos, no una prueba ejecutada: para confirmar que el sistema realmente guarda, recupera o impide duplicados se necesitaría software.
 
@@ -242,6 +236,6 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 |---|---|---|---|
 | GitHub | GitHub, Inc. | Repositorio, ramas y Pull Requests | https://github.com |
 | Trello | Atlassian | Tarjetas de trabajo del equipo | https://trello.com |
-| Figma | Figma, Inc.| Diseño de wireframes y prototipo navegable del recorrido en docs/U3/prototipo// | https://www.figma.com |
+| Figma | Figma, Inc.| Diseño de wireframes y prototipo navegable del recorrido en docs/U3/prototipo/ | https://www.figma.com |
 
 Uso de IA: [explicar para qué se usó y qué se verificó. Completar solo con lo que realmente se hizo].
