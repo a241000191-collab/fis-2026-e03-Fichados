@@ -2,7 +2,7 @@
 # U3 · Especificación de requisitos — Fichados
 
 **Versión:** 0.2  
-**Fecha:** [2026-11-18]  
+**Fecha:** 2026-11-18
 **Equipo y roles:** Frida Sofía Zamora Quezada (Analisis) · Jocelyn Fernanda Pérez Muñoz (Desarrollo) · Karime Ortiz Reyes (Coordinacion) · Gilberto Juarez Hernández (Documentación)  
 **Estado:** En elaboración
 
@@ -26,9 +26,9 @@
 
 | Nombre | Rol U3 | Dos IDs asignados | Enlace Trello / PR |
 |---|---|---|---|
-| Frida Sofía Zamora Quezada | coordinacion | RF-03, RF-04 | [enlace] |
-| Jocelyn Fernanda Pérez Muñoz | Documentacion | RNF-02, RF-05| * https://trello.com/c/K483Qvei   *https://github.com/a241000191-collab/fis-2026-e03-Fichados/pull/1 |
-| Karime Ortiz Reyes | Analisis| [IDs] | [enlace] |
+| Frida Sofía Zamora Quezada | Analisis | RF-03, RF-04 | [enlace] |
+| Jocelyn Fernanda Pérez Muñoz | Desarrollo| RNF-02, RF-05| * https://trello.com/c/K483Qvei   *https://github.com/a241000191-collab/fis-2026-e03-Fichados/pull/1 |
+| Karime Ortiz Reyes | coordinacion| [IDs] | [enlace] |
 | Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | [enlace] |
 
 ## B. Fuentes y necesidades
@@ -52,7 +52,7 @@ Para conocer cómo se realiza actualmente el seguimiento de los estudiantes, se 
 
 | ID | Técnica | Fuente | Fecha de obtención | Hallazgo | Respaldo | Validación |
 |---|---|---|---|---|---|---|
-| F-01 | Entrevista | Coordinador de división | 22/OCT/2026 | Se da seguimiento a las calificaciones y al desempeño de los estudiantes. Las calificaciones y la asistencia se registran en un sistema; algunos docentes llevan las suyas en Excel y algunos ponen cero a quien no entregó nada. Los docentes envían sus listas al tutor y el tutor las concentra en un archivo de Excel; también se usan el Kardex y la retícula a color. | [enlace o ubicación del audio o notas] | Por validar |
+| F-01 | Entrevista | Coordinador de división | 2026-OCT-24| Se da seguimiento a las calificaciones y al desempeño de los estudiantes. Las calificaciones y la asistencia se registran en un sistema; algunos docentes llevan las suyas en Excel y algunos ponen cero a quien no entregó nada. Los docentes envían sus listas al tutor y el tutor las concentra en un archivo de Excel; también se usan el Kardex y la retícula a color. | Notas de entrevista resguardadas en carpeta privada del equipo | Por validar |
 | F-02 | Entrevista | Jefe de actividades extracurriculares | 22/OCT/2026 | Se lleva un seguimiento de las actividades extracurriculares. | [enlace o ubicación de las notas] | Por validar |
 
 Antecedentes del equipo (no cuentan como fuentes confirmadas): propuesta inicial del proyecto (U1-E02) y documento de modelo de negocio con el AS-IS y el TO-BE (U2-E01).
@@ -96,8 +96,8 @@ Los requisitos se enfocarán principalmente en:
 | ID | Regla | Quién la establece | Origen en B2 | Estado |
 |---|---|---|---|---|
 | RG-01 | La información académica debe estar registrada para poder realizar un análisis. | Personal responsable de los registros académicos | F-01 (parcial) | Por validar |
-| RG-02 | Una alerta de posible riesgo debe ser revisada por el tutor antes de tomar alguna decisión. | [por confirmar con el tutor o la coordinación] | Origen pendiente · ver B4 | Propuesto |
-| RG-03 | La información extracurricular debe conservarse para poder consultar la participación de los estudiantes en diferentes periodos. | [por confirmar con el responsable de actividades extracurriculares] | F-02 (parcial) | Por validar |
+| RG-02 | Una alerta de posible riesgo debe ser revisada por el tutor antes de tomar alguna decisión. | por confirmar con el tutor o la coordinación| Origen pendiente · ver B4 | Propuesto |
+| RG-03 | La información extracurricular debe conservarse para poder consultar la participación de los estudiantes en diferentes periodos. | por confirmar con el responsable de actividades extracurriculares | F-02 (parcial) | Por validar |
 | RG-04 | La institución define los criterios para considerar a un estudiante en riesgo (por ejemplo, inasistencias o materias reprobadas); los valores exactos están por confirmar. | Institución (tutor académico y reglamento) | Origen pendiente · ver B4 | Propuesto |
 
 ## E. Catálogo de requisitos
@@ -106,13 +106,13 @@ Los requisitos se enfocarán principalmente en:
 
 | ID | Tipo | Enunciado verificable | Origen (F / N) | Prioridad | Motivo | Autor | Estado |
 |---|---|---|---|---|---|---|---|
-| RF-01 | RF | El sistema debe permitir al personal administrativo y a los docentes cargar o sincronizar las calificaciones y asistencias de los estudiantes, sin duplicar registros. | F-01 / N-03 | P1 | Sin los datos cargados no hay información que centralizar ni analizar. | [autor] | Por validar |
+| RF-01 | RF | El sistema debe permitir al personal administrativo y a los docentes cargar o sincronizar las calificaciones y asistencias de los estudiantes, sin duplicar registros. | F-01 / N-03 | P1 | Sin los datos cargados no hay información que centralizar ni analizar. | Karime Ortiz Reyes | Por validar |
 | RF-02 | RF | El sistema debe mostrar un aviso cuando a un estudiante le falte una calificación o una asistencia necesaria para el análisis, y no debe analizarlo hasta que el dato se complete o se verifique. | F-01 / N-04 | P1 | Con datos incompletos el análisis puede generar una alerta incorrecta. | Gilberto Juarez Hernández | Por validar |
 | RF-03 | RF | El sistema debe generar una alerta asociada a un alumno únicamente cuando sus indicadores cumplan los criterios de riesgo definidos. | Origen pendiente · ver B4 | P1 | Sin esta condición el sistema alertaría sin sustento o dejaría pasar casos. | Frida Sofia Zamora Quezada | Propuesto |
 | RF-04 | RF | El sistema debe mostrar al tutor, junto con cada alerta, los indicadores que la originaron. | Origen pendiente · ver B4 | P1 | Sin ese detalle el tutor no puede evaluar el caso. | Frida Sofia Zamora Quezada | Propuesto |
 | RF-05 | RF | El sistema debe permitir al tutor consultar, para un estudiante seleccionado, sus calificaciones, asistencias y materias no acreditadas. | F-01 / N-01 | P1 | Sin esta consulta el tutor no puede revisar el caso de un estudiante. | Jocelyn Fernanda Pérez Muñoz | Por validar |
 | RF-06 | RF | El sistema debe permitir al tutor registrar, para cada alerta que recibe, si el estudiante requiere seguimiento o no, y guardar esa decisión con la fecha. | Origen pendiente · ver B4 | P1 | Cierra el proceso y permite medir cuántas alertas se revisan. | Gilberto Juarez Hernández | Propuesto |
-| RNF-01 | RNF | El sistema debe permitir consultar los datos académicos y las alertas de un estudiante únicamente a usuarios autenticados con un rol autorizado (tutor asignado o personal administrativo). | Origen pendiente · ver B4 | P1 | Son datos personales de estudiantes y un acceso indebido sería un riesgo grave. | [autor] | Propuesto |
+| RNF-01 | RNF | El sistema debe permitir consultar los datos académicos y las alertas de un estudiante únicamente a usuarios autenticados con un rol autorizado (tutor asignado o personal administrativo). | Origen pendiente · ver B4 | P1 | Son datos personales de estudiantes y un acceso indebido sería un riesgo grave. | Karime Ortiz Reyes| Propuesto |
 | RNF-02 | RNF | El sistema debe conservar la información de participación de los estudiantes en clubes y actividades extracurriculares y mantenerla disponible para consulta en los semestres siguientes, sin eliminarla automáticamente al terminar un periodo. | F-02 / N-02 | P2 | Aporta al objetivo de no volver a pedir la información, pero la primera versión puede generar alertas con los datos académicos. | Jocelyn Fernanda Pérez Muñoz | Por validar |
 
 ## F. Criterios de aceptación
@@ -216,10 +216,10 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 
 | Fecha | Solicitud o motivo | IDs afectados | Decisión | Enlace al PR revisado |
 |---|---|---|---|---|
-| 2026-11-10 | Ruta de organización del alcance | Todos | Se eligió la ruta B, con requisitos directos. |Integrado en rama principal (sin PR previo)|
-| [AAAA-MM-DD] | Dos requisitos de un borrador repetían los de otro integrante (análisis con IA y envío de alertas) | RF-03, RF-04 | Se conservaron los de su autora y se retiraron los repetidos. |ENLACEEEE |
-| [AAAA-MM-DD] | Un borrador incluía un umbral de inasistencias y calificación sin fuente | RG-04, RF-03 | Se retiró el umbral y quedó como regla pendiente en B4. |Integrado en rama principal (sin PR previo|
-| 2026-11-09 | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | ENLACEEE |
+| 2026-11-10 | Ruta de organización del alcance | Todos | Se eligió la ruta B, con requisitos directos. | Integrado en rama principal (sin PR previo) |
+| 2026-11-12 | Dos requisitos de un borrador repetían los de otro integrante (análisis con IA y envío de alertas) | RF-03, RF-04 | Se conservaron los de su autora y se retiraron los repetidos. | Integrado en rama principal (sin PR previo) |
+| 2026-11-12 | Un borrador incluía un umbral de inasistencias y calificación sin fuente | RG-04, RF-03 | Se retiró el umbral y quedó como regla pendiente en B4. | Integrado en rama principal (sin PR previo) |
+| 2026-11-09 | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | Integrado en rama principal (sin PR previo) |
 
 ## I. Referencias y herramientas
 
