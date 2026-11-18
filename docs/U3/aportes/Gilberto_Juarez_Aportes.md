@@ -1,7 +1,11 @@
-Aporte individual — Gilberto Juárez Hernández
+###Aporte individual — Gilberto Juárez Hernández
+
 Proyecto: Fichados
+
 Sección del proceso asignada: Pasos 2–3 y 6 del TO-BE: verificación de los datos antes del análisis y decisión del tutor sobre la alerta.
+
 Rol principal de la U3: Documentación
+
 Fecha: 17/11/2026
 
 ## 1. Información que necesito obtener
