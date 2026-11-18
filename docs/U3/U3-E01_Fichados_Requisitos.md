@@ -37,12 +37,12 @@
 
 | Pregunta por resolver | Persona o documento a consultar | Técnica | Responsable | Estado |
 |---|---|---|---|---|
-| ¿Qué criterios se usan para considerar que un estudiante está en riesgo? | Tutor académico y reglamento institucional | Entrevista o análisis documental | [nombre] | Pendiente |
-| ¿Qué datos académicos y extracurriculares puede entregar la escuela, desde qué periodo y en qué formato? | Control escolar | Entrevista o análisis documental | [nombre] | Pendiente |
-| ¿Quién debe tener acceso a los datos de los estudiantes? | Control escolar | Entrevista | [nombre] | Pendiente |
-| ¿Cómo se registran hoy los cambios de club y se conserva la participación de un periodo a otro? | Responsable de actividades extracurriculares | Entrevista | [nombre] | Pendiente |
-| Cuando el tutor revisa a un estudiante en riesgo, ¿qué hace y cómo deja constancia de su decisión? | Tutor académico | Entrevista | [nombre] | Pendiente |
-| Cuando falta una calificación o una asistencia, ¿cómo se detecta y quién la completa? | Control escolar y docentes | Entrevista | [nombre] | Pendiente |
+| ¿Qué criterios se usan para considerar que un estudiante está en riesgo? | Tutor académico y reglamento institucional | Entrevista o análisis documental |Frida Sofía Zamora Quezada | Pendiente |
+| ¿Qué datos académicos y extracurriculares puede entregar la escuela, desde qué periodo y en qué formato? | Control escolar | Entrevista o análisis documental | ocelyn Fernanda Pérez Muñoz | Pendiente |
+| ¿Quién debe tener acceso a los datos de los estudiantes? | Control escolar | Entrevista | Karime Ortiz Reyes | Pendiente |
+| ¿Cómo se registran hoy los cambios de club y se conserva la participación de un periodo a otro? | Responsable de actividades extracurriculares | Entrevista | Karime Ortiz Reyes | Pendiente |
+| Cuando el tutor revisa a un estudiante en riesgo, ¿qué hace y cómo deja constancia de su decisión? | Tutor académico | Entrevista |Gilberto Juarez | Pendiente |
+| Cuando falta una calificación o una asistencia, ¿cómo se detecta y quién la completa? | Control escolar y docentes | Entrevista | Gilberto Juarez | Pendiente |
 
 ### B2. Fuentes realmente consultadas
 
