@@ -216,10 +216,10 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 
 | Fecha | Solicitud o motivo | IDs afectados | Decisión | Enlace al PR revisado |
 |---|---|---|---|---|
-| [AAAA-MM-DD] | Ruta de organización del alcance | Todos | Se eligió la ruta B, con requisitos directos. |Integrado en rama principal (sin PR previo)|
+| 2026-11-10 | Ruta de organización del alcance | Todos | Se eligió la ruta B, con requisitos directos. |Integrado en rama principal (sin PR previo)|
 | [AAAA-MM-DD] | Dos requisitos de un borrador repetían los de otro integrante (análisis con IA y envío de alertas) | RF-03, RF-04 | Se conservaron los de su autora y se retiraron los repetidos. | [enlace] |
 | [AAAA-MM-DD] | Un borrador incluía un umbral de inasistencias y calificación sin fuente | RG-04, RF-03 | Se retiró el umbral y quedó como regla pendiente en B4. | [enlace] |
-| [AAAA-MM-DD] | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | [enlace] |
+| 2026-11-09 | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | enlace |
 
 ## I. Referencias y herramientas
 
