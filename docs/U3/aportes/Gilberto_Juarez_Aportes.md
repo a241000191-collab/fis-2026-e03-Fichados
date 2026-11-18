@@ -1,4 +1,4 @@
-###Aporte individual — Gilberto Juárez Hernández
+### Aporte individual — Gilberto Juárez Hernández
 
 Proyecto: Fichados
 
