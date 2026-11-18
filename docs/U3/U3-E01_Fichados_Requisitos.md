@@ -156,15 +156,16 @@ Borrador · pendiente de validar con Análisis y Desarrollo. Recorrido prioritar
 
 | Estado | Qué muestra | Requisitos | Continúa en |
 |---|---|---|---|
-| 01 · Inicio | Pantalla de inicio con acceso por rol y las opciones «Cargar datos de un estudiante» y «Consultar alertas». | RF-01, RNF-01 | 02 |
-| 02 · Acción | Se selecciona o se carga la información de un estudiante y se presiona «Analizar». | RF-01, RF-02 | 03A o 03B |
-| 03A · Éxito | Los datos están completos: se muestra el análisis realizado y, si se cumplen los criterios de riesgo, se genera una alerta con folio. | RF-03 | 04 |
-| 03B · Error | Falta una calificación o asistencia: aviso en texto con el dato faltante; no se analiza al estudiante. | RF-02 | 02 |
-| 04 · Consulta | El tutor abre la alerta con su folio, ve los indicadores y los datos del estudiante, y registra su decisión. | RF-04, RF-05, RF-06 | Fin |
+| 01 · Inicio | Pantalla del **Panel de seguimiento** con resumen general de alumnos y listado de alertas recientes; el tutor identifica a un alumno en riesgo y presiona «Ver Expediente». | RF-03, RF-04 | 02 |
+| 02 · Consulta de expediente | Vista del expediente individual del estudiante (promedio global, diagnóstico, retícula semestral y materias reprobadas); el tutor presiona «AGENDAR CITA / CANALIZAR». | RF-04, RF-05, RF-06 | 03 |
+| 03 · Acción | Formulario para agendar cita de canalización donde se selecciona el tipo (asesoría, psicopedagógico o tutoría), fecha, hora y observaciones, y se presiona «Confirmar y Notificar». | RF-06 | 04A o 04B |
+| 04A · Éxito | El horario está disponible y los datos están completos: se confirma que la cita fue agendada y notificada al estudiante, con opción para volver al panel. | RF-06 | 05 |
+| 04B · Error | El horario seleccionado dejó de estar disponible o faltan datos obligatorios: aviso en pantalla con sugerencia para elegir otro horario; no se agenda la cita. | RF-06 | 03 |
+| 05 · Consulta del resultado | El tutor regresa al **Panel de seguimiento** y verifica que el registro del estudiante ya muestra la etiqueta de estado actualizado («Cita Agendada» con fecha y hora). | RF-03, RF-06 | Fin |
 
-Flechas del recorrido: 01 → 02; 02 → 03A cuando los datos están completos; 02 → 03B cuando falta un dato; 03B → 02 para completar el dato; solo desde 03A se continúa al 04.
+Flechas del recorrido: 01 → 02; 02 → 03; 03 → 04A cuando el horario está disponible y los datos están completos; 03 → 04B cuando el horario no está disponible o faltan datos; 04B → 03 para elegir otro horario; solo desde 04A se continúa al 05.
 
-Nota: consultar la alerta por folio o desde una lista de alertas es una capacidad propuesta, pendiente de validar; todavía no tiene un requisito propio.
+Nota: el flujo de inicio de sesión por rol y captura de asistencias/evaluaciones parciales se incluye como vistas complementarias de soporte (`Extra01_Login` y `Extra02_CapturaDatos`), mientras que el flujo de archivar alertas (`Extra04` a `Extra06`) representa la acción alternativa desde el expediente; la regla institucional exacta para las notificaciones y horarios de canalización queda pendiente de validar con las áreas correspondientes.
 
 **01. Inicio**
 
