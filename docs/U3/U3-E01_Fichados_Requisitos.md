@@ -26,7 +26,7 @@
 
 | Nombre | Rol U3 | Dos IDs asignados | Enlace Trello / PR |
 |---|---|---|---|
-| Frida Sofía Zamora Quezada | Analisis | RF-03, RF-04 | [enlace] |
+| Frida Sofía Zamora Quezada | Analisis | RF-03, RF-04 | * https://trello.com/c/4PvgaZ5x/77-act-65-u3-investigaci%C3%B3n-de-2-requisitos-rf-03-y-rf-04 |
 | Jocelyn Fernanda Pérez Muñoz | Desarrollo| RNF-02, RF-05| * https://trello.com/c/K483Qvei   *https://github.com/a241000191-collab/fis-2026-e03-Fichados/pull/1 |
 | Karime Ortiz Reyes | coordinacion| [IDs] | [enlace] |
 | Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | https://trello.com/c/DtJNwJuT |
