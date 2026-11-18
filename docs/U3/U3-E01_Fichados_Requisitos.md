@@ -52,8 +52,8 @@ Para conocer cómo se realiza actualmente el seguimiento de los estudiantes, se 
 
 | ID | Técnica | Fuente | Fecha de obtención | Hallazgo | Respaldo | Validación |
 |---|---|---|---|---|---|---|
-| F-01 | Entrevista | Coordinador de división | [AAAA-MM-DD] | Se da seguimiento a las calificaciones y al desempeño de los estudiantes. Las calificaciones y la asistencia se registran en un sistema; algunos docentes llevan las suyas en Excel y algunos ponen cero a quien no entregó nada. Los docentes envían sus listas al tutor y el tutor las concentra en un archivo de Excel; también se usan el Kardex y la retícula a color. | [enlace o ubicación del audio o notas] | Por validar |
-| F-02 | Entrevista | Jefe de actividades extracurriculares | [AAAA-MM-DD] | Se lleva un seguimiento de las actividades extracurriculares. | [enlace o ubicación de las notas] | Por validar |
+| F-01 | Entrevista | Coordinador de división | 22/OCT/2026 | Se da seguimiento a las calificaciones y al desempeño de los estudiantes. Las calificaciones y la asistencia se registran en un sistema; algunos docentes llevan las suyas en Excel y algunos ponen cero a quien no entregó nada. Los docentes envían sus listas al tutor y el tutor las concentra en un archivo de Excel; también se usan el Kardex y la retícula a color. | [enlace o ubicación del audio o notas] | Por validar |
+| F-02 | Entrevista | Jefe de actividades extracurriculares | 22/OCT/2026 | Se lleva un seguimiento de las actividades extracurriculares. | [enlace o ubicación de las notas] | Por validar |
 
 Antecedentes del equipo (no cuentan como fuentes confirmadas): propuesta inicial del proyecto (U1-E02) y documento de modelo de negocio con el AS-IS y el TO-BE (U2-E01).
 
