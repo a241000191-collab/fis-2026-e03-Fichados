@@ -29,7 +29,7 @@
 | Frida Sofía Zamora Quezada | Analisis | RF-03, RF-04 | [enlace] |
 | Jocelyn Fernanda Pérez Muñoz | Desarrollo| RNF-02, RF-05| * https://trello.com/c/K483Qvei   *https://github.com/a241000191-collab/fis-2026-e03-Fichados/pull/1 |
 | Karime Ortiz Reyes | coordinacion| [IDs] | [enlace] |
-| Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | [enlace] |
+| Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | https://trello.com/c/DtJNwJuT |
 
 ## B. Fuentes y necesidades
 
