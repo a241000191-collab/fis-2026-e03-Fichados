@@ -193,6 +193,14 @@ Archivo del boceto: `docs/U3/prototipo/U3_Prototipo_Fichados_Recorrido.png`
 
 ![04 Consulta](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_04_Consulta.png)
 
+
+**Prototipo en Figma:**
+- **Vista interactiva (recorrido navegable):** [Abrir presentación interactiva en Figma](https://www.figma.com/proto/nxNzeiRT5UThILWK4cMtMs/%22Sistema-de-Fichados--y-Seguimiento%22---Iniciar-Sesi%C3%B3n-para-continuar?node-id=3-9&p=f&t=PdefeP0q0YELiFwI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A9&show-proto-sidebar=1)
+- **Lienzo de diseño (todas las pantallas):** [Ver archivo de diseño en Figma](https://www.figma.com/design/nxNzeiRT5UThILWK4cMtMs/%22Sistema-de-Fichados--y-Seguimiento%22---Iniciar-Sesi%C3%B3n-para-continuar)
+
+> *Nota:* El enlace interactivo y las capturas en `docs/U3/prototipo/` corresponden a un prototipo de baja fidelidad para validar el recorrido de los requisitos con los interesados; no representa software funcional conectado a una base de datos real.
+> *Nota:* Tanto las imágenes como el enlace navegable en Figma corresponden a un prototipo de baja fidelidad para validar el flujo de los requisitos con los interesados; no representa software funcional conectado a una base de datos real.
+
 El boceto es una representación para discutir los requisitos, no una prueba ejecutada: para confirmar que el sistema realmente guarda, recupera o impide duplicados se necesitaría software.
 
 ## H. Trazabilidad y cambios
