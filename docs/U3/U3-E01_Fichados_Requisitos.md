@@ -2,8 +2,8 @@
 # U3 · Especificación de requisitos — Fichados
 
 **Versión:** 0.2  
-**Fecha:** [AAAA-MM-DD]  
-**Equipo y roles:** Frida Sofía Zamora Quezada ([rol principal], revisor: [nombre]) · Jocelyn Fernanda Pérez Muñoz ([rol principal], revisor: [nombre]) · Karime Ortiz Reyes ([rol principal], revisor: [nombre]) · Gilberto Juarez Hernández (Documentación, revisor: [nombre])  
+**Fecha:** [2026-11-18]  
+**Equipo y roles:** Frida Sofía Zamora Quezada (Analisis) · Jocelyn Fernanda Pérez Muñoz (Desarrollo) · Karime Ortiz Reyes (Coordinacion) · Gilberto Juarez Hernández (Documentación)  
 **Estado:** En elaboración
 
 ## A. Identificación y alcance
@@ -26,9 +26,9 @@
 
 | Nombre | Rol U3 | Dos IDs asignados | Enlace Trello / PR |
 |---|---|---|---|
-| Frida Sofía Zamora Quezada | [rol] | RF-03, RF-04 | [enlace] |
-| Jocelyn Fernanda Pérez Muñoz | [rol] | [IDs] | [enlace] |
-| Karime Ortiz Reyes | [rol] | [IDs] | [enlace] |
+| Frida Sofía Zamora Quezada | coordinacion | RF-03, RF-04 | [enlace] |
+| Jocelyn Fernanda Pérez Muñoz | Documentacion | RNF-02, RF-05| * https://trello.com/c/K483Qvei   *https://github.com/a241000191-collab/fis-2026-e03-Fichados/pull/1 |
+| Karime Ortiz Reyes | Analisis| [IDs] | [enlace] |
 | Gilberto Juarez Hernández | Documentación | RF-02, RF-06 | [enlace] |
 
 ## B. Fuentes y necesidades
@@ -37,12 +37,12 @@
 
 | Pregunta por resolver | Persona o documento a consultar | Técnica | Responsable | Estado |
 |---|---|---|---|---|
-| ¿Qué criterios se usan para considerar que un estudiante está en riesgo? | Tutor académico y reglamento institucional | Entrevista o análisis documental | [nombre] | Pendiente |
-| ¿Qué datos académicos y extracurriculares puede entregar la escuela, desde qué periodo y en qué formato? | Control escolar | Entrevista o análisis documental | [nombre] | Pendiente |
-| ¿Quién debe tener acceso a los datos de los estudiantes? | Control escolar | Entrevista | [nombre] | Pendiente |
-| ¿Cómo se registran hoy los cambios de club y se conserva la participación de un periodo a otro? | Responsable de actividades extracurriculares | Entrevista | [nombre] | Pendiente |
-| Cuando el tutor revisa a un estudiante en riesgo, ¿qué hace y cómo deja constancia de su decisión? | Tutor académico | Entrevista | [nombre] | Pendiente |
-| Cuando falta una calificación o una asistencia, ¿cómo se detecta y quién la completa? | Control escolar y docentes | Entrevista | [nombre] | Pendiente |
+| ¿Qué criterios se usan para considerar que un estudiante está en riesgo? | Tutor académico y reglamento institucional | Entrevista o análisis documental |Frida Sofía Zamora Quezada | Pendiente |
+| ¿Qué datos académicos y extracurriculares puede entregar la escuela, desde qué periodo y en qué formato? | Control escolar | Entrevista o análisis documental | Jocelyn Fernanda Pérez Muñoz | Pendiente |
+| ¿Quién debe tener acceso a los datos de los estudiantes? | Control escolar | Entrevista | Karime Ortiz Reyes | Pendiente |
+| ¿Cómo se registran hoy los cambios de club y se conserva la participación de un periodo a otro? | Responsable de actividades extracurriculares | Entrevista | Karime Ortiz Reyes | Pendiente |
+| Cuando el tutor revisa a un estudiante en riesgo, ¿qué hace y cómo deja constancia de su decisión? | Tutor académico | Entrevista |Gilberto Juarez | Pendiente |
+| Cuando falta una calificación o una asistencia, ¿cómo se detecta y quién la completa? | Control escolar y docentes | Entrevista | Gilberto Juarez | Pendiente |
 
 ### B2. Fuentes realmente consultadas
 
@@ -52,8 +52,8 @@ Para conocer cómo se realiza actualmente el seguimiento de los estudiantes, se 
 
 | ID | Técnica | Fuente | Fecha de obtención | Hallazgo | Respaldo | Validación |
 |---|---|---|---|---|---|---|
-| F-01 | Entrevista | Coordinador de división | [AAAA-MM-DD] | Se da seguimiento a las calificaciones y al desempeño de los estudiantes. Las calificaciones y la asistencia se registran en un sistema; algunos docentes llevan las suyas en Excel y algunos ponen cero a quien no entregó nada. Los docentes envían sus listas al tutor y el tutor las concentra en un archivo de Excel; también se usan el Kardex y la retícula a color. | [enlace o ubicación del audio o notas] | Por validar |
-| F-02 | Entrevista | Jefe de actividades extracurriculares | [AAAA-MM-DD] | Se lleva un seguimiento de las actividades extracurriculares. | [enlace o ubicación de las notas] | Por validar |
+| F-01 | Entrevista | Coordinador de división | 22/OCT/2026 | Se da seguimiento a las calificaciones y al desempeño de los estudiantes. Las calificaciones y la asistencia se registran en un sistema; algunos docentes llevan las suyas en Excel y algunos ponen cero a quien no entregó nada. Los docentes envían sus listas al tutor y el tutor las concentra en un archivo de Excel; también se usan el Kardex y la retícula a color. | [enlace o ubicación del audio o notas] | Por validar |
+| F-02 | Entrevista | Jefe de actividades extracurriculares | 22/OCT/2026 | Se lleva un seguimiento de las actividades extracurriculares. | [enlace o ubicación de las notas] | Por validar |
 
 Antecedentes del equipo (no cuentan como fuentes confirmadas): propuesta inicial del proyecto (U1-E02) y documento de modelo de negocio con el AS-IS y el TO-BE (U2-E01).
 
@@ -70,12 +70,12 @@ Antecedentes del equipo (no cuentan como fuentes confirmadas): propuesta inicial
 
 | Duda | Fuente por consultar | Responsable |
 |---|---|---|
-| Qué datos pueden utilizarse en el sistema | Control escolar | [nombre] |
-| Qué registros extracurriculares están disponibles | Responsable de actividades extracurriculares | [nombre] |
-| Qué criterios definen a un estudiante en riesgo | Tutor académico y reglamento | [nombre] |
-| Quién debe tener acceso a los datos y a las alertas | Control escolar | [nombre] |
-| Cómo deja constancia el tutor de su decisión sobre una alerta | Tutor académico | [nombre] |
-| Si una alerta debe ser revisada por una persona antes de actuar | Tutor o coordinación | [nombre] |
+| Qué datos pueden utilizarse en el sistema | Control escolar | Jocelyn Fernanda Pérez Muñoz |
+| Qué registros extracurriculares están disponibles | Responsable de actividades extracurriculares | Karime Ortiz Reyes |
+| Qué criterios definen a un estudiante en riesgo | Tutor académico y reglamento | Frida Sofía Zamora Quezada |
+| Quién debe tener acceso a los datos y a las alertas | Control escolar | Karime Ortiz Reyes |
+| Cómo deja constancia el tutor de su decisión sobre una alerta | Tutor académico | Gilberto Juarez Hernández |
+| Si una alerta debe ser revisada por una persona antes de actuar | Tutor o coordinación | Frida Sofía Zamora Quezada |
 
 ## C. Organización del alcance
 
@@ -110,10 +110,10 @@ Los requisitos se enfocarán principalmente en:
 | RF-02 | RF | El sistema debe mostrar un aviso cuando a un estudiante le falte una calificación o una asistencia necesaria para el análisis, y no debe analizarlo hasta que el dato se complete o se verifique. | F-01 / N-04 | P1 | Con datos incompletos el análisis puede generar una alerta incorrecta. | Gilberto Juarez Hernández | Por validar |
 | RF-03 | RF | El sistema debe generar una alerta asociada a un alumno únicamente cuando sus indicadores cumplan los criterios de riesgo definidos. | Origen pendiente · ver B4 | P1 | Sin esta condición el sistema alertaría sin sustento o dejaría pasar casos. | Frida Sofia Zamora Quezada | Propuesto |
 | RF-04 | RF | El sistema debe mostrar al tutor, junto con cada alerta, los indicadores que la originaron. | Origen pendiente · ver B4 | P1 | Sin ese detalle el tutor no puede evaluar el caso. | Frida Sofia Zamora Quezada | Propuesto |
-| RF-05 | RF | El sistema debe permitir al tutor consultar, para un estudiante seleccionado, sus calificaciones, asistencias y materias no acreditadas. | F-01 / N-01 | P1 | Sin esta consulta el tutor no puede revisar el caso de un estudiante. | [autor] | Por validar |
+| RF-05 | RF | El sistema debe permitir al tutor consultar, para un estudiante seleccionado, sus calificaciones, asistencias y materias no acreditadas. | F-01 / N-01 | P1 | Sin esta consulta el tutor no puede revisar el caso de un estudiante. | Jocelyn Fernanda Pérez Muñoz | Por validar |
 | RF-06 | RF | El sistema debe permitir al tutor registrar, para cada alerta que recibe, si el estudiante requiere seguimiento o no, y guardar esa decisión con la fecha. | Origen pendiente · ver B4 | P1 | Cierra el proceso y permite medir cuántas alertas se revisan. | Gilberto Juarez Hernández | Propuesto |
 | RNF-01 | RNF | El sistema debe permitir consultar los datos académicos y las alertas de un estudiante únicamente a usuarios autenticados con un rol autorizado (tutor asignado o personal administrativo). | Origen pendiente · ver B4 | P1 | Son datos personales de estudiantes y un acceso indebido sería un riesgo grave. | [autor] | Propuesto |
-| RNF-02 | RNF | El sistema debe conservar la información de participación de los estudiantes en clubes y actividades extracurriculares y mantenerla disponible para consulta en los semestres siguientes, sin eliminarla automáticamente al terminar un periodo. | F-02 / N-02 | P2 | Aporta al objetivo de no volver a pedir la información, pero la primera versión puede generar alertas con los datos académicos. | [autor] | Por validar |
+| RNF-02 | RNF | El sistema debe conservar la información de participación de los estudiantes en clubes y actividades extracurriculares y mantenerla disponible para consulta en los semestres siguientes, sin eliminarla automáticamente al terminar un periodo. | F-02 / N-02 | P2 | Aporta al objetivo de no volver a pedir la información, pero la primera versión puede generar alertas con los datos académicos. | Jocelyn Fernanda Pérez Muñoz | Por validar |
 
 ## F. Criterios de aceptación
 
@@ -144,12 +144,12 @@ Los requisitos se enfocarán principalmente en:
 |---|---|---|---|---|
 | 1 | RF-01 | P1 | Ninguno | [URL] |
 | 2 | RF-02 | P1 | RF-01 | [URL] |
-| 3 | RF-05 | P1 | RF-01 | [URL] |
+| 3 | RF-05 | P1 | RF-01 | [Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei)    |
 | 4 | RF-03 | P1 | RF-02 y criterios de riesgo (RG-04) | [URL] |
 | 5 | RF-04 | P1 | RF-03 | [URL] |
 | 6 | RF-06 | P1 | RF-04 | [URL] |
 | 7 | RNF-01 | P1 | Ninguno (aplica a los requisitos que muestran datos) | [URL] |
-| 8 | RNF-02 | P2 | RF-01 | [URL] |
+| 8 | RNF-02 | P2 | RF-01 |[Tarjeta Jocelyn (RF-05 / RNF-02)](https://trello.com/c/K483Qvei) |
 
 ### Recorrido del usuario mediante wireframes de baja fidelidad
 
@@ -167,11 +167,6 @@ Flechas del recorrido: 01 → 02; 02 → 03A cuando los datos están completos; 
 
 Nota: consultar la alerta por folio o desde una lista de alertas es una capacidad propuesta, pendiente de validar; todavía no tiene un requisito propio.
 
-<!-- Cuando exista la imagen del recorrido en docs/U3/prototipo/, quitar este comentario:
-![Recorrido del usuario](prototipo/U3_Prototipo_Fichados_Recorrido.png)
--->
-
-Archivo del boceto: `docs/U3/prototipo/U3_Prototipo_Fichados_Recorrido.png`
 
 **01. Inicio**
 
@@ -192,6 +187,13 @@ Archivo del boceto: `docs/U3/prototipo/U3_Prototipo_Fichados_Recorrido.png`
 **04. Consulta**
 
 ![04 Consulta](/docs/U3/prototipo/U3_Prototipo_SistemaFichados_04_Consulta.png)
+
+
+**Prototipo en Figma:**
+- **Vista interactiva (recorrido navegable):** [Abrir presentación interactiva en Figma](https://www.figma.com/proto/nxNzeiRT5UThILWK4cMtMs/%22Sistema-de-Fichados--y-Seguimiento%22---Iniciar-Sesi%C3%B3n-para-continuar?node-id=3-9&p=f&t=PdefeP0q0YELiFwI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A9&show-proto-sidebar=1)
+- **Lienzo de diseño (todas las pantallas):** [Ver archivo de diseño en Figma](https://www.figma.com/design/nxNzeiRT5UThILWK4cMtMs/%22Sistema-de-Fichados--y-Seguimiento%22---Iniciar-Sesi%C3%B3n-para-continuar)
+
+> *Nota:* El enlace interactivo y las capturas en `docs/U3/prototipo/` corresponden a un prototipo de baja fidelidad para validar el recorrido de los requisitos con los interesados; no representa software funcional conectado a una base de datos real.
 
 El boceto es una representación para discutir los requisitos, no una prueba ejecutada: para confirmar que el sistema realmente guarda, recupera o impide duplicados se necesitaría software.
 
@@ -214,16 +216,16 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 
 | Fecha | Solicitud o motivo | IDs afectados | Decisión | Enlace al PR revisado |
 |---|---|---|---|---|
-| [AAAA-MM-DD] | Ruta de organización del alcance | Todos | Se eligió la ruta B, con requisitos directos. | [enlace] |
+| 2026-11-10 | Ruta de organización del alcance | Todos | Se eligió la ruta B, con requisitos directos. |Integrado en rama principal (sin PR previo)|
 | [AAAA-MM-DD] | Dos requisitos de un borrador repetían los de otro integrante (análisis con IA y envío de alertas) | RF-03, RF-04 | Se conservaron los de su autora y se retiraron los repetidos. | [enlace] |
 | [AAAA-MM-DD] | Un borrador incluía un umbral de inasistencias y calificación sin fuente | RG-04, RF-03 | Se retiró el umbral y quedó como regla pendiente en B4. | [enlace] |
-| [AAAA-MM-DD] | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | [enlace] |
+| 2026-11-09 | Integración del catálogo | RF-01 a RF-06, RNF-01, RNF-02 | Se asignaron los IDs definitivos según el recorrido del proceso. | enlace |
 
 ## I. Referencias y herramientas
 
 ### Fuentes de información
 
-- Entrevista · Coordinador de división · técnica: entrevista · fecha: [AAAA-MM-DD] · resumen: ver F-01 en B2 · respaldo: [ubicación protegida].
+- Entrevista · Coordinador de división · técnica: entrevista · fecha:2026-11-10 · resumen: ver F-01 en B2 · respaldo: [ubicación protegida].
 - Entrevista · Jefe de actividades extracurriculares · técnica: entrevista · fecha: [AAAA-MM-DD] · resumen: ver F-02 en B2 · respaldo: [ubicación protegida].
 - Equipo Fichados. (2026, 8 de septiembre). *Propuesta inicial del proyecto, Versión 0* (U1-E02) [Documento de trabajo del equipo]. Repositorio del equipo, docs/U1. Consulta: [AAAA-MM-DD].
 - Equipo Fichados. (2026). *Modelo de negocio* (U2-E01) [Documento de trabajo del equipo]. Repositorio del equipo, docs/U2. Consulta: [AAAA-MM-DD].
@@ -234,6 +236,6 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 |---|---|---|---|
 | GitHub | GitHub, Inc. | Repositorio, ramas y Pull Requests | https://github.com |
 | Trello | Atlassian | Tarjetas de trabajo del equipo | https://trello.com |
-| [herramienta del boceto] | [proveedor] | Boceto del recorrido en docs/U3/prototipo/ | [enlace oficial] |
+| Figma | Figma, Inc.| Diseño de wireframes y prototipo navegable del recorrido en docs/U3/prototipo/ | https://www.figma.com |
 
 Uso de IA: [explicar para qué se usó y qué se verificó. Completar solo con lo que realmente se hizo].
