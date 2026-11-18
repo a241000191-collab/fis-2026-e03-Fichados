@@ -225,9 +225,9 @@ El boceto es una representación para discutir los requisitos, no una prueba eje
 
 ### Fuentes de información
 
-- Entrevista · Coordinador de división · técnica: entrevista · fecha:2026-11-10 · resumen: ver F-01 en B2 · respaldo: [ubicación protegida].
-- Entrevista · Jefe de actividades extracurriculares · técnica: entrevista · fecha: [AAAA-MM-DD] · resumen: ver F-02 en B2 · respaldo: [ubicación protegida].
-- Equipo Fichados. (2026, 8 de septiembre). *Propuesta inicial del proyecto, Versión 0* (U1-E02) [Documento de trabajo del equipo]. Repositorio del equipo, docs/U1. Consulta: [AAAA-MM-DD].
+- Entrevista · Coordinador de división · técnica: entrevista · fecha:2026-OCT-24· resumen: ver F-01 en B2 .
+- Entrevista · Jefe de actividades extracurriculares · técnica: entrevista · fecha: 2026-OCT-24 · resumen: ver F-02 en B2 · respaldo: ubicación protegida.
+- Equipo Fichados. (2026, 8 de septiembre). *Propuesta inicial del proyecto, Versión 0* (U1-E02) [Documento de trabajo del equipo]. Repositorio del equipo, docs/U1.
 - Equipo Fichados. (2026). *Modelo de negocio* (U2-E01) docs/U2/U2-E01_Fichados_ModeloNegocio.pdf. Repositorio del equipo, docs/U2. Consulta: 28-OCT-2026.
 
 ### Herramientas y recursos
