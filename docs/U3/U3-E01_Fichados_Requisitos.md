@@ -70,12 +70,12 @@ Antecedentes del equipo (no cuentan como fuentes confirmadas): propuesta inicial
 
 | Duda | Fuente por consultar | Responsable |
 |---|---|---|
-| Qué datos pueden utilizarse en el sistema | Control escolar | [nombre] |
-| Qué registros extracurriculares están disponibles | Responsable de actividades extracurriculares | [nombre] |
-| Qué criterios definen a un estudiante en riesgo | Tutor académico y reglamento | [nombre] |
-| Quién debe tener acceso a los datos y a las alertas | Control escolar | [nombre] |
-| Cómo deja constancia el tutor de su decisión sobre una alerta | Tutor académico | [nombre] |
-| Si una alerta debe ser revisada por una persona antes de actuar | Tutor o coordinación | [nombre] |
+| Qué datos pueden utilizarse en el sistema | Control escolar | Jocelyn Fernanda Pérez Muñoz |
+| Qué registros extracurriculares están disponibles | Responsable de actividades extracurriculares | Karime Ortiz Reyes |
+| Qué criterios definen a un estudiante en riesgo | Tutor académico y reglamento | Frida Sofía Zamora Quezada |
+| Quién debe tener acceso a los datos y a las alertas | Control escolar | Karime Ortiz Reyes |
+| Cómo deja constancia el tutor de su decisión sobre una alerta | Tutor académico | Gilberto Juarez Hernández |
+| Si una alerta debe ser revisada por una persona antes de actuar | Tutor o coordinación | Frida Sofía Zamora Quezada |
 
 ## C. Organización del alcance
 
