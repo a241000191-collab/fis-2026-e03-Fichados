@@ -23,7 +23,7 @@ Equipo: EQ-05
 - docs/U3: documentos de la unidad 4
 - docs/U4/aportes: aportes de cada integrante
 - gestion/acuerdos: acuerdos de trabajo del equipo
-- gestion/bitacoras: bitácoras de cada integrante, organizadas por unidad (U1, U2, U3 y U4)
+- gestion/bitacoras: bitácoras de cada integrante, organizadas por unidad (U1, U2 Y U3)
 
 ## Seguimiento
 
